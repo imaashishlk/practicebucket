@@ -6,6 +6,8 @@ a = 44
 
 print("hello")
 
-if a:
 
+import numpy as np
+
+if a:
     "it is getting busier"
